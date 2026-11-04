@@ -15,10 +15,6 @@ Este repositório contém o sistema desenvolvido para o projeto final da discipl
 
 O sistema integra algoritmos próprios implementados em Python, avaliando como as características dos dados e a frequência de consultas/atualizações afetam o desempenho computacional e as escolhas de projeto[cite: 1]. O contexto de aplicação é o **Monitoramento de Equipamentos Industriais**[cite: 7].
 
-Este repositório contém o sistema desenvolvido para o projeto final da disciplina de **Algoritmos para Ciência de Dados** do Mestrado Profissional (MECAI) do ICMC-USP[cite: 1]. 
-
-O sistema integra algoritmos próprios implementados em Python, avaliando como as características dos dados e a frequência de consultas/atualizações afetam o desempenho computacional e as escolhas de projeto[cite: 1]. O contexto de aplicação é o **Monitoramento de Equipamentos Industriais**[cite: 7].
-
 ## 📌 Contexto e Base de Dados
 
 O domínio escolhido aborda a manutenção preditiva em caminhões pesados, utilizando a base de dados real **SCANIA Component X Dataset**[cite: 10]. Este *dataset* contém séries temporais multivariadas com leituras operacionais, registros de reparo e especificações de frotas[cite: 10, 11].
