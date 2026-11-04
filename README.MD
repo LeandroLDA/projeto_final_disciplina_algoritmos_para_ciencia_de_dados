@@ -1,8 +1,3 @@
-Aqui está uma proposta de `README.md` estruturada para atender aos critérios de avaliação da disciplina (reprodutibilidade e clareza) e, ao mesmo tempo, destacar-se como uma peça profissional no seu portfólio do GitHub.
-
-Para utilizá-lo, basta copiar o código abaixo e colar no arquivo `README.md` na raiz do seu repositório.
-
-```markdown
 # ⚙️ Sistema de Organização e Análise de Dados: Manutenção Preditiva (Scania)
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
@@ -112,7 +107,3 @@ python -m src.experiments
 ---
 
 Projeto acadêmico desenvolvido em cumprimento aos requisitos da disciplina do MECAI / ICMC-USP. Referências bibliográficas completas encontram-se na documentação na pasta `/docs`.
-
-```
-
-```
