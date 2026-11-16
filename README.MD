@@ -1,6 +1,3 @@
-Aqui está o seu `README.md` atualizado. Corrigi as informações conflitantes relacionadas à engenharia de dados que construímos (o identificador gerado e a origem real do atributo textual), adicionei os scripts `hub.py` e `ingestion.py` na árvore de arquivos e incluí o passo de sincronização de dados via Hugging Face no guia de reprodução.
-
-```markdown
 # ⚙️ Sistema de Organização e Análise de Dados: Manutenção Preditiva (Scania)
 
 <div align="center">
@@ -131,7 +128,5 @@ python -m src.experiments
 ---
 
 Projeto acadêmico desenvolvido em cumprimento aos requisitos da disciplina do MECAI / ICMC-USP. Referências bibliográficas completas encontram-se na documentação na pasta `/docs`.
-
-```
 
 ```
